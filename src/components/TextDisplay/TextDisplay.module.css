@@ -1,0 +1,17 @@
+.textWrapper {
+	font-size: 16px;
+	margin-bottom: 20px;
+	white-space: pre-wrap;
+	user-select: none;
+	-webkit-user-select: none; /* для Chrome и Safari */
+	-moz-user-select: none; /* для Firefox */
+	-ms-user-select: none; /* для Internet Explorer и Edge */
+}
+
+.correct {
+	background-color: lightgreen;
+}
+
+.incorrect {
+	background-color: lightcoral;
+}
